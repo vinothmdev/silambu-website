@@ -8496,6 +8496,12 @@ h1, h2, h3, h4, h5,
     .btn.btn-quarternary:hover, .btn.btn-quarternary:focus, .btn.btn-quarternary:active {
       border: 1px solid #f1453d;
       color: #fff; }
+  .btn.btn-blue {
+        background: #24346f;
+        color: #fff; }
+    .btn.btn-blue:hover, .btn.btn-blue:focus, .btn.btn-blue:active {
+          border: 1px solid #f1453d;
+          color: #fff; }      
 
 .btn-custom {
   font-weight: 500;
